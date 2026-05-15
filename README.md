@@ -1,5 +1,5 @@
 
-# Exp - 5 STUDENT ENROLLMENT SYSTEM
+# Exp - 5 STUDENT REGISTRATION SYSTEM
 
 # AIM:
 
@@ -27,7 +27,8 @@ vi)Sequence Diagram
 ## Usecase Diagram
 
 
-<img width="1102" height="1050" alt="image" src="https://github.com/user-attachments/assets/96b2aa8b-9799-4c36-a5a8-7fb8f10c7e38" />
+<img width="900" height="916" alt="image" src="https://github.com/user-attachments/assets/ced5d22e-f32b-4b02-adfd-2b0df8867977" />
+
 
 
 
@@ -41,7 +42,8 @@ vi)Sequence Diagram
 
 # Activity Diagram
 
-<img width="756" height="1025" alt="image" src="https://github.com/user-attachments/assets/d4a7a4bd-db05-40cc-bbe1-c95a85b2b419" />
+<img width="756" height="1025" alt="image" src="https://github.com/user-attachments/assets/eb72596a-37aa-42bb-8dc3-d2dda407eee0" />
+
 
 
 
